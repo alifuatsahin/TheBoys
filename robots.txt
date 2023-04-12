@@ -1,0 +1,25 @@
+husky ugv https://www.clearpathrobotics.com/assets/guides/kinetic/ros/Getting%20Started%20with%20Ubuntu.html
+jackal ugv https://clearpathrobotics.com/jackal-small-unmanned-ground-vehicle/
+
+http://wiki.ros.org/Robots/AMR_Pioneer_Compatible
+
+x100 ugv
+megarover
+tiago omni base
+mecanumrover**
+panther***  https://husarion.com/manuals/panther/
+leo rover*** https://www.leorover.tech/
+copernicus robot***
+MAG Autonomous Mobile Robots
+
+******
+imu
+RGBD camera
+Lidar
+GPS
+******
+
+MP-500 https://www.neobotix-docs.de/hardware/en/platforms/mp-500/index.html
+Dalurobot_chasis independent suspension, independent steering   https://www.dalurobot.com/
+Summit-XL-Steel (Robotnik has github)
+Seekur
