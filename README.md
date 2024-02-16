@@ -24,9 +24,9 @@ This project aims to build a simple robot that will navigate on the grid-based a
 
 
 # Meanings of Cell Colors
-White: Default color and indicates a neutral cell, which does not result in any points or have any constraints or functionality.
-Red: Indicates a wall, no robots can pass through this cell.
-Green: This is, the so-called, transformer cell. Once a robot, the robot enters this cell, all robots will toggle roles, i.e. predator becomes prey, and the prey becomes predator.
+White: Default color and indicates a neutral cell, which does not result in any points or have any constraints or functionality. \\
+Red: Indicates a wall, no robots can pass through this cell. \\
+Green: This is, the so-called, transformer cell. Once a robot, the robot enters this cell, all robots will toggle roles, i.e. predator becomes prey, and the prey becomes predator. \\
 Yellow and Blue: These cells represent different terrains that impose different speeds and points according to each role.
 
 ![image](https://github.com/alifuatsahin/TheBoys/assets/123699292/cad642ac-5037-4b41-856b-76156fa010cc)
