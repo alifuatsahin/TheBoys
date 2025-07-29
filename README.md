@@ -2,8 +2,8 @@
 
 This project repo contains the codes and planning of 2 different projects.
 
--Predator-prey Game Competition
--Unmanned Ground Vehicle Project
+- Predator-prey Game Competition
+- Unmanned Ground Vehicle Project
 
 Details about each can be found below.
 
