@@ -1,11 +1,11 @@
 # The Boys
 
-In this project, we focused on creating an MPC system for a rocket prototype. This involved
-designing an MPC regulator, incorporating tracking mechanisms, and implementing an estimator to
-address potential offsets caused by disturbances. Our testing encompassed a non-linear simulation,
-highlighting the challenges of employing linear MPC in a non-linear system. We concluded the
-project with the design and implementation of a non-linear MPC using CASADI, followed by a
-comparative analysis of its performance against the linear MPC.
+This project repo contains the codes and planning of 2 different projects.
+
+--Predator-prey Game Competition
+--Unmanned Ground Vehicle Project
+
+Details about each can be found below.
 
 ## Table of Contents
 
