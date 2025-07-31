@@ -28,7 +28,7 @@ White: Default color and indicates a neutral cell, which does not result in any 
 
 Red: Indicates a wall, no robots can pass through this cell.
 
-Green: This is, the so-called, transformer cell. Once a robot, the robot enters this cell, all robots will toggle roles, i.e. predator becomes prey, and the prey becomes predator.
+Green: This is, the so-called, transformer cell. Once a robot enters this cell, all robots will toggle roles, i.e. predator becomes prey, and the prey becomes predator.
 
 Yellow and Blue: These cells represent different terrains that impose different speeds and points according to each role.
 
